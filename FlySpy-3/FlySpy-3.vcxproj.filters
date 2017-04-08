@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Experiment">
+      <UniqueIdentifier>{1475d829-fde9-4071-b712-ce0247b12790}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SilhDetector">
+      <UniqueIdentifier>{e1dd4108-baa5-4938-88bd-7e07b4a160e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tracker">
+      <UniqueIdentifier>{366db90b-34d7-4b9d-a618-56702d582de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Centroid Calculator">
+      <UniqueIdentifier>{c9571235-feae-4c28-beea-3ad42cdb3ca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{421132fc-1b78-4e98-9730-d18063c693cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View">
+      <UniqueIdentifier>{46202546-8946-4d80-a20b-1e2868a60d60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Error">
+      <UniqueIdentifier>{5bc64326-1666-49f2-ada2-a06616395641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Munkres">
+      <UniqueIdentifier>{c604d6f7-6058-40a5-b1b7-802836322735}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Definitions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Experiment.cpp">
+      <Filter>Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="SilhDetector.cpp">
+      <Filter>SilhDetector</Filter>
+    </ClCompile>
+    <ClCompile Include="Tracker.cpp">
+      <Filter>Tracker</Filter>
+    </ClCompile>
+    <ClCompile Include="CentroidCalculator2D.cpp">
+      <Filter>Centroid Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>View</Filter>
+    </ClCompile>
+    <ClCompile Include="Error.cpp">
+      <Filter>Error</Filter>
+    </ClCompile>
+    <ClCompile Include="munkres.cpp">
+      <Filter>Munkres</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Experiment.h">
+      <Filter>Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="SilhDetector.h">
+      <Filter>SilhDetector</Filter>
+    </ClInclude>
+    <ClInclude Include="Tracker.h">
+      <Filter>Tracker</Filter>
+    </ClInclude>
+    <ClInclude Include="CentroidCalculator2D.h">
+      <Filter>Centroid Calculator</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>View</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>Error</Filter>
+    </ClInclude>
+    <ClInclude Include="munkres.h">
+      <Filter>Munkres</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
