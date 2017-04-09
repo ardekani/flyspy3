@@ -6,6 +6,7 @@ Open the solution file in Visual Studio and compile the code in x64 settings. Th
 # How to run
 **flyspy3.exe** *< number of targets>* *< number of views>* *< input method>* *< _tracking method_>* *< path to the first input AVI file>* *< path to the projection matrix file>* *< path to the projection matrix file>* *< prefix for all output files>* *< first frame to process>* *< last frame to process>*
 
+
 Here is a short description from arguments that are not clear:
 
 | Arguement        | Description           |
