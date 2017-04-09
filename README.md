@@ -4,7 +4,8 @@ Flyspy3 is a software for 3D tracking Drosophila fly activities in a controlled 
 Open the solution file in Visual Studio and compile the code in x64 settings. The code is dependent to the OpenCV library, but all of the dependencies are already included, so the code should compile without any extra setting.
 
 # How to run
-**flyspy3.exe** *< number of targets>* *< number of views>* *< input method>* *< tracking method>* *< path to the first input AVI file>* *< path to the projection matrix file>* *< path to the projection matrix file>* *< prefix for all output files>* *< first frame to process>* *< last frame to process>*
+**flyspy3.exe** *< number of targets>* *< number of views>* *< input method>* *< _tracking method_>* *< path to the first input AVI file>* *< path to the projection matrix file>* *< path to the projection matrix file>* *< prefix for all output files>* *< first frame to process>* *< last frame to process>*
+
 Here is a short description from arguments that are not clear:
 
 | Arguement        | Description           |
@@ -15,7 +16,7 @@ Here is a short description from arguments that are not clear:
 
 # Sample data
 You can download a sample dataset which includes 4 AVI files and one text file with calibration information from [here](https://drive.google.com/drive/folders/0Bzem1LPfAlcOR2F4S1F1dnRBaWM). (~1.7GB).
-# Outpus sample
+# Output sample
 Here is a sample output from a 3D tracking experiment with multiple targets.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=i_FFQGsIDJc
