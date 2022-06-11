@@ -20,4 +20,4 @@ You can download a sample dataset which includes 4 AVI files and one text file w
 # Output sample
 Here is a sample output from a 3D tracking experiment with multiple targets.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i_FFQGsIDJc/0.jpg)](https://www.youtube.com/watch?v=i_FFQGsIDJc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R6i7efH48PI/0.jpg)](https://www.youtube.com/watch?v=R6i7efH48PI)
